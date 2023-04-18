@@ -1,0 +1,92 @@
+[
+  {
+    "_id": "643e35bdae9533e7929790c9",
+    "name": "impressora",
+    "quantity": 0,
+    "price": 650,
+    "createdAt": "2023-04-18T06:16:29.110Z",
+    "updatedAt": "2023-04-18T06:16:29.110Z",
+    "__v": 0
+  },
+  {
+    "_id": "643e35bdae9533e7929790c8",
+    "name": "Caneta",
+    "quantity": 10,
+    "price": 8,
+    "createdAt": "2023-04-18T06:16:29.110Z",
+    "updatedAt": "2023-04-18T06:16:29.110Z",
+    "__v": 0
+  },
+  {
+    "_id": "643e35bdae9533e7929790ca",
+    "name": "caderno",
+    "quantity": 4,
+    "price": 27,
+    "createdAt": "2023-04-18T06:16:29.110Z",
+    "updatedAt": "2023-04-18T06:16:29.110Z",
+    "__v": 0
+  },
+  {
+    "_id": "643e35bdae9533e7929790cb",
+    "name": "lapis",
+    "quantity": 3,
+    "price": 6,
+    "createdAt": "2023-04-18T06:16:29.111Z",
+    "updatedAt": "2023-04-18T06:16:29.111Z",
+    "__v": 0
+  },
+  {
+    "_id": "643e35bdae9533e7929790ce",
+    "name": "teclado",
+    "quantity": 4,
+    "price": 500,
+    "createdAt": "2023-04-18T06:16:29.111Z",
+    "updatedAt": "2023-04-18T06:16:29.111Z",
+    "__v": 0
+  },
+  {
+    "_id": "643e35bdae9533e7929790cf",
+    "name": "mouse",
+    "quantity": 3,
+    "price": 79,
+    "createdAt": "2023-04-18T06:16:29.111Z",
+    "updatedAt": "2023-04-18T06:16:29.111Z",
+    "__v": 0
+  },
+  {
+    "_id": "643e35bdae9533e7929790d0",
+    "name": "tenis",
+    "quantity": 2,
+    "price": 350,
+    "createdAt": "2023-04-18T06:16:29.111Z",
+    "updatedAt": "2023-04-18T06:16:29.111Z",
+    "__v": 0
+  },
+  {
+    "_id": "643e35bdae9533e7929790d1",
+    "name": "meias",
+    "quantity": 10,
+    "price": 19,
+    "createdAt": "2023-04-18T06:16:29.111Z",
+    "updatedAt": "2023-04-18T06:16:29.111Z",
+    "__v": 0
+  },
+  {
+    "_id": "643e35bdae9533e7929790cc",
+    "name": "tesoura",
+    "quantity": 1,
+    "price": 20,
+    "createdAt": "2023-04-18T06:16:29.111Z",
+    "updatedAt": "2023-04-18T06:16:29.111Z",
+    "__v": 0
+  },
+  {
+    "_id": "643e35bdae9533e7929790cd",
+    "name": "mochila",
+    "quantity": 6,
+    "price": 150,
+    "createdAt": "2023-04-18T06:16:29.111Z",
+    "updatedAt": "2023-04-18T06:16:29.111Z",
+    "__v": 0
+  }
+]
